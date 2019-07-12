@@ -5,10 +5,10 @@ In order for this website to work properly, we sometimes store small files - cal
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
 ### How do we use cookies?
-To improve the user experience, show targeted ads and suggest content based on recently read articles.
-We use cookies, localStorage and sessionStorage. The sessionStorage persists for the duration of the session only. The local storage will persist until cleared by the web browser. Cookies live for the duration specified by our service.
-The majority of all cookies are determined by third-party scripts. They collect data that will be used later to improve the user experience on our website.
-The cookies that are set in our domain are accessible via icanbeacoder.com and embedded scripts.
+- To improve the user experience, show targeted ads and suggest content based on recently read articles.
+- We use cookies, localStorage and sessionStorage. The sessionStorage persists for the duration of the session only. The local storage will persist until cleared by the web browser. Cookies live for the duration specified by our service.
+- The majority of all cookies are determined by third-party scripts. They collect data that will be used later to improve the user experience on our website.
+- The cookies that are set in our domain are accessible via icanbeacoder.com and embedded scripts.
 
 ### About Goole Analytics/Facebook pixels and custom audiences
 The Pixel is an analysis tool that allows us to measure the effectiveness of our advertising by understanding the actions of users on your site. We use pixel data for:
